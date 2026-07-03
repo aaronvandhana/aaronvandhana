@@ -18,7 +18,6 @@ Every project in this portfolio is built the same way: a realistic enterprise in
 Windows 11 (Ryzen 5 3600X, 32GB RAM) running Oracle VirtualBox — Windows Server + client VMs networked internally to simulate real domain environments.
 
 ---
-###🚧 Actively rebuilding this portfolio — new projects added as they're completed
 
 ### 📂 Projects
 
