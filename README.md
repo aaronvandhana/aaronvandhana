@@ -35,7 +35,6 @@ Windows 11 (Ryzen 5 3600X, 32GB RAM) running Oracle VirtualBox — Windows Serve
 `CompTIA A+` → `Network+` → `Security+` → `AZ-900` → `SC-900` → `AZ-500 / AWS Security Specialty`
 
 ---
-
 ### 📫 Let's Connect
 
 <p align="left">
