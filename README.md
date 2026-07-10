@@ -24,10 +24,7 @@ Windows 11 (Ryzen 5 3600X, 32GB RAM) running Oracle VirtualBox — Windows Serve
 | # | Project | What it covers | Stack | Status |
 |---|---------|-----------------|-------|--------|
 | 1 | **[Basic Employee Onboarding (AD)(RBAC)](https://github.com/aaronvandhana/Basic-Employee-Onboarding-AD-RBAC-/tree/main)** | Standing up a Windows Server 2019 VM, static IP config, promotion to domain controller for a new NMG.com domain, creating Organizational Units, creating security groups, users, and ticket resolution of incorrect access | Windows Server 2019, VirtualBox, Active Directory | ✅ Complete |
-| 2 | **[VPN-Connectivity-Incident-AD-Account-Lockout](https://github.com/aaronvandhana/VPN-Connectivity-Incident-AD-Account-Lockout)** | End-to-end VPN incident response: built RRAS/NPS/AD 
-authentication stack, engineered an AD account lockout 
-scenario, and worked a full ticket lifecycle in self-hosted 
-osTicket using the CompTIA A+ 6-step troubleshooting methodology | Windows Server 2022, Active Directory, RRAS, NPS, osTicket, XAMPP, VirtualBox | 🔵 In Progress |
+| 2 | **[VPN-Connectivity-Incident-AD-Account-Lockout](https://github.com/aaronvandhana/VPN-Connectivity-Incident-AD-Account-Lockout)** | End-to-end VPN incident response: built RRAS/NPS/AD authentication stack, engineered an AD account lockout scenario, and worked a full ticket lifecycle in self-hosted osTicket using the CompTIA A+ 6-step troubleshooting methodology | Windows Server 2022, Active Directory, RRAS, NPS, osTicket, XAMPP, VirtualBox | 🔵 In Progress |
 
 *(Replace the `#` links above with each project's folder/repo URL once published.)*
 
