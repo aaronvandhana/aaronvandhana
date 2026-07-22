@@ -32,7 +32,7 @@ Windows 11 (Ryzen 5 3600X, 32GB RAM) running Oracle VirtualBox — Windows Serve
 
 ### 🎯 Certification Path
 
-`CompTIA A+` → `Network+` → `Security+` → `AZ-900` → `SC-900` → `AZ-500 / AWS Security Specialty`
+`CompTIA A+` → `Security+` → `AZ-900` → `SC-300` → `AZ-500 / AWS Security Specialty`
 
 ---
 ### 📫 Let's Connect
